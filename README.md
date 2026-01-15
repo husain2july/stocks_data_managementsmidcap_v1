@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-15 11:51:34 IST
+Last updated: 2026-01-15 12:25:50 IST
 
 ## ADANIGREEN.NS
 
